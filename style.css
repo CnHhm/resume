@@ -1,0 +1,44 @@
+﻿<style>
+    body.Boxborder
+    {
+        width:650px;
+        height:911px;
+        border: solid 1px lightgray;
+    }
+    div.InfoDiv
+    {
+        border: solid 1px lightgray;
+        width:630px;
+        height:300px;      
+        /*<!--630,891-->  */
+        margin:0 auto;
+    }
+    div.BigName
+    {
+        color:#0094ff;
+        margin-left:20px;
+        margin-top:30px;
+        font-size:28px;
+        font-family:Arial;
+    }
+    td.EssentialInformation
+    {
+        
+    }
+    #floatTable
+    {
+        float:left;
+        margin-left:18px;
+        border: solid 1px lightgray;
+    }
+    img.myphoto
+    {
+        width:108px;
+        height:148px;
+    }
+    span.myphoto
+    {
+        float:right;
+        margin-right:50px;
+    }
+</style>
